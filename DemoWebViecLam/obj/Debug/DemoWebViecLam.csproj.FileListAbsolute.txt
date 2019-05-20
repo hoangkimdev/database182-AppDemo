@@ -1,0 +1,11 @@
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\obj\Debug\DemoWebViecLam.csprojAssemblyReference.cache
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\obj\Debug\DemoWebViecLam.FormMain.resources
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\obj\Debug\DemoWebViecLam.Properties.Resources.resources
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\obj\Debug\DemoWebViecLam.csproj.GenerateResource.cache
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\obj\Debug\DemoWebViecLam.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\bin\Debug\DemoWebViecLam.exe.config
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\bin\Debug\DemoWebViecLam.exe
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\bin\Debug\DemoWebViecLam.pdb
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\obj\Debug\DemoWebViecLam.exe
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\obj\Debug\DemoWebViecLam.pdb
+C:\Users\Hoang Kim\Desktop\DemoWebViecLam\DemoWebViecLam\obj\Debug\DemoWebViecLam.FormKim.resources
