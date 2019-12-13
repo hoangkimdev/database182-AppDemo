@@ -96,6 +96,7 @@ namespace DemoWebViecLam
                     //Cap nhap lai danh sach goi dich vu, danh sach chon dang ky
                     LoadData();
                     LoadDoanhNghiep_DV();
+                    MessageBox.Show("Thêm dịch vụ thành công !");
                 }
             }
             catch (Exception ex)
@@ -242,6 +243,7 @@ namespace DemoWebViecLam
                 DemoWebViecLam.DAO.QueryKim.Instance.InsertDBO_DangKy(strID_dn, strID_dv);
                 //Cap nhap lich su dang ky
                 LoadDangKy();
+                MessageBox.Show("Đăng ký dịch vụ thành công !");
             }
             catch (Exception ex)
             {
@@ -276,6 +278,7 @@ namespace DemoWebViecLam
         private void buttonHuy_Click(object sender, EventArgs e)
         {
             LoadData();
+            LoadDoanhNghiep_DV();
         }
 
         private void buttonReset_Click(object sender, EventArgs e)
